@@ -1,5 +1,7 @@
 # Gentrification in Portugal
+
 This project embarks on a comprehensive quantitative exploration of gentrification in Portugal, leveraging data from authoritative sources such as Eurostat, OECD, Erasmus+, and INE. The aim is to analyze the dynamics of gentrification by examining key macroeconomic indicators, housing indices, foreign population trends, and the impact of tourism and international mobility. The analysis seeks to unveil patterns, trends, and potential drivers that contribute to the understanding of gentrification in Portugal.
+
 ---------
 ## Data Source:
 
